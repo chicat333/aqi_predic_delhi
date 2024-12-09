@@ -1,6 +1,6 @@
 # aqi_predic_delhi
-AQI Prediction for Delhi using ARIMA and GARCH 
+AQI Prediction for Delhi using SARIMA 
 <br>
 Author: Prachi Bhatia
 <br>
-Upload date: 8 December 2024
+Currently working on handling volatility using GARCH to improve model accuracy scores. 
