@@ -1,6 +1,6 @@
 # Air Quality Prediction for Delhi
 
-**Author:** Prachi Bhatia, ...
+**Author:** Prachi Bhatia, MSc Computer Science, Department of Computer Science, Faculty of Mathematical Sciences, University of Delhi
 
 **Course:** MCSC105 – Data Mining, Semester 1 Project
 
