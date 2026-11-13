@@ -1,7 +1,9 @@
 # Air Quality Prediction for Delhi
 
-**Author:** Prachi Bhatia, MSc Computer Science, Department of Computer Science, Faculty of Mathematical Sciences, University of Delhi
+**Author:** Prachi Bhatia, ...
+
 **Course:** MCSC105 – Data Mining, Semester 1 Project
+
 **Submitted to:** Dr. Bharti Rana, Associate Professor, Department of Computer Science, University of Delhi
 
 This project computes the Air Quality Index (AQI) for Delhi from CPCB monitoring data (2010–2023) and forecasts future AQI using an ARIMA time-series model. The full write-up is in [`DM_report copy.pdf`](DM_report%20copy.pdf).
